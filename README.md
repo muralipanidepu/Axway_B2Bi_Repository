@@ -12,3 +12,12 @@ Additionally, in this update the following features are added with the support o
 2.	View received payload.
 3.	Reprocess the message.
 4.	Resend the message.
+---------------------------------------
+
+Here is the short description about the files in the repository. 
+
+Import_Web Dashboards Package Guide V2.0.pdf:  contains the Step by Step instructions on how to deploy and setup the package.
+	
+OOB_DBD_exportXML.zip: is a WebDashboard export xml zip file, and this needs to be imported to get all the dashboard replated reports and others.
+	
+spec.zip: is a custom components file containing 3 "JSP" files providing download message and reprocess message functionality using B2Bi RestAPIs implementation.
